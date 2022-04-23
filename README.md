@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atijes
-- 👀 I’m interested in Machine learnine
-- 🌱 I’m currently learning Software engineering
+- 👀 Interested in Machine learnine and Networking
+- 🌱 I’m currently upskilling on Software engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
