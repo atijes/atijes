@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @atijes
-- 👀 Interested in Machine learnine and Networking
+- 👀 Interested in Machine learning and Networking
 - 🌱 I’m currently upskilling on Software engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
